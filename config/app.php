@@ -229,4 +229,6 @@ return [
 
     ],
 
+    'static_version' => env('STATIC_VERSION', time()),
+
 ];
